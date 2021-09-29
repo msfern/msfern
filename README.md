@@ -6,7 +6,7 @@
 ## Hey there! I'm Stephanie Fernandes 👋
 ### I'm a Front-end Engineer based in Brazil
 
-- 🏢 I'm currently working at **[Sambatech](https://sambatech.com/).**
+- 🏢 I'm currently working at **[ACCT](https://acct.global/).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `react`
 <!-- - 🌍 I'm mostly active within the **** -->
 - ⚡️ Fun fact: I can do a pretty good Yoshi impression 
