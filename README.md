@@ -9,7 +9,7 @@
 - 🏢 I'm currently working at **[ACCT](https://acct.global/).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `react`
 <!-- - 🌍 I'm mostly active within the **** -->
-- ⚡️ Fun fact: I can do a pretty good Yoshi impression 
+- ⚡️ Fun fact: I'm a Pokémon Unite pro player
 - 🌱 Currently learning all about **NextJS**
 <!-- - 👨‍💻 Current project [Clipboard.js](https://github.com/zenorocha/clipboard.js) -->
 
