@@ -4,7 +4,7 @@
 </a> -->
 
 ## Hey there! I'm Stephanie Fernandes 👋
-### I'm a Front-end Engineer based in Amsterdam
+### I'm a Frontend Software Engineer based in Amsterdam
 
 - 🏢 I'm currently working at **[Box](https://www.box.com/).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `react`
