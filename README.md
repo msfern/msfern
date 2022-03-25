@@ -4,12 +4,12 @@
 </a> -->
 
 ## Hey there! I'm Stephanie Fernandes 👋
-### I'm a Front-end Engineer based in Brazil
+### I'm a Front-end Engineer based in Amsterdam
 
-- 🏢 I'm currently working at **[ACCT](https://acct.global/).**
+- 🏢 I'm currently working at **[Box](https://www.box.com/).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `react`
 <!-- - 🌍 I'm mostly active within the **** -->
-- ⚡️ Fun fact: I'm a Pokémon Unite pro player
+- ⚡️ Fun fact: I'm a former Pokémon Unite pro player
 - 🌱 Currently learning all about **NextJS**
 <!-- - 👨‍💻 Current project [Clipboard.js](https://github.com/zenorocha/clipboard.js) -->
 
