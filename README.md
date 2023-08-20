@@ -7,7 +7,7 @@
 ### I'm a Frontend Software Engineer based in Amsterdam
 
 - 🏢 I'm currently working at **[Box](https://www.box.com/).**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `react`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `react`, `vue`
 <!-- - 🌍 I'm mostly active within the **** -->
 - ⚡️ Fun fact: I'm a former Pokémon Unite pro player
 - 🌱 Currently learning all about **NextJS**
