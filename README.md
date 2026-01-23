@@ -6,7 +6,7 @@
 ## Hey there! I'm Stephanie Fernandes 👋
 ### I'm a Frontend Software Engineer based in Amsterdam
 
-- 🏢 I'm currently looking for new opportunities :)**
+- 🏢 I'm currently looking for new opportunities :)
 - ⚙️ I use daily: `.js`, `.css`, `react`, 
 <!-- - 🌍 I'm mostly active within the **** -->
 - ⚡️ Fun fact: I'm a former Pokémon Unite pro player
