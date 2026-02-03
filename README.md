@@ -1,19 +1,41 @@
-<!-- <a href='https://vitormalencar.com'>
-  <img src="https://raw.githubusercontent.com/vitormalencar/vitormalencar/master/assets/artwork.png" height='200' widht='400' alt="Stephanie Fernandes" />
-  <img src="https://raw.githubusercontent.com/vitormalencar/vitormalencar/master/assets/qrcode.png" height='200' widht='400' alt="Stephanie Fernandes" />
-</a> -->
+# Hey there! I'm Stephanie Fernandes 👋
+### Senior Frontend Software Engineer | Based in Amsterdam
 
-## Hey there! I'm Stephanie Fernandes 👋
-### I'm a Frontend Software Engineer based in Amsterdam
+I specialize in building **scalable, accessible, and high-performance** web applications. I bridge the gap between elegant UI design and robust technical architecture.
 
-- 🏢 I'm currently looking for new opportunities :)
-- ⚙️ I use daily: `.js`, `.css`, `react`, 
-<!-- - 🌍 I'm mostly active within the **** -->
-- ⚡️ Fun fact: I'm a former Pokémon Unite pro player
-- 🌱 Currently learning all about **NextJS**
-<!-- - 👨‍💻 Current project [Clipboard.js](https://github.com/zenorocha/clipboard.js) -->
+---
 
-<!-- - 📫 Reach me: [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/vitormalencar)
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitormalencar)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/vitormalencar)
-[![WEBSITE](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsSAAALEgHS3X78AAAEJElEQVRo3u1ayUojURRNHNCN4ELEEf0SUVFRVBxQ8Qd622tFRBeu/IleK3HWtAO4caUrsXGe53meiBFv51xy069iJV0VU3SqSeBQRSV5755z7n3vVdVzOP58vvnwywevD+TDh//4r/Gh4N2HVR++O4I+P3T+QDEINS6XqjwuvPkZUgw7QP4Y3/zn3Q5/2pASfKw6oMYl5x6HP+c/Ykx1I2kkR92LdiJhu+CDidgu6GDECcQJWEbA6XRGFXEHzBBIS0ujwsJCysvLo/z8/C+joKCAUlJSAs5aRkAaR6cLCwu0vLxMS0tLEWNxcZE2NjZocHCQkpOTA+1XVVVRWVkZnyckJETXAWmwp6eH7u7uaGdnhw4ODiLC7u4u3dzcUGtrK7eZmJjIx+npaRoZGYmGI/rFiyPSZ2Vlhfb395kEgjGD7e1tOj09pampKU0hV1ZW0snJCR0eHlJJSclXXdD/QpTq6uqi29tbDgZEzACkr6+vqampSdPm0NAQHR0dMYm+vj5riljUys3NpbW1Ne4QQRlNnb29Pbq4uOBUgbqicHV1NZ2dndHm5iZtbW0xidLS0q+4EPpL1YX7+3tOC9huBCAA5xobGzVtjY6OclqBAAAy/f391k1kOObk5LALkrdwIxzg1NXVFauPNkTZmpoaOj8/58CRkgBcAKHy8vJIXQj/A1Gus7OTHh8fObjj4+OwBJBCGL0aGho0bYyNjbEIIID6AMQFl8tlzUwsLmRnZ9P6+joriCBBQg9wCMMmRh5V0bq6uk/qC3ANLlRUVGgIR20pobrw/PzMQUJJPYDcw8MDBywEIMLExMQn9RG8uAACAwMD1qyFxIWsrCx24fLykoNBpyrgAIodua8Sr6+vD6ivBi7nqguYI0y6YIypNNjR0UGvr68cLHJXBUihTlT1AbfbrVE/mIDqAuYIS1aj4kJmZiavbTBBIWgoC6BzBC+5L4QxjIZSX88FtIl1kgkXjLNVXfB4PKwqJisAHaM+amtrNepPTk7y7zBcSqDhCECI4eFha+4Hgl3ARKUGH6w+lhD4Xh15goMP5QLmDIMumKt6abC9vZ28Xi93hiBfXl4CnUL5pKQkJoRaCad+qFrAnGHJHZm4kJGRwZ1hzEfwSBWVYEtLi2H19VxA3Ug6/sUF87OfNNjW1sYuPD09BQoPBKH+zMzMJ/WNQFxA3YyPjxu5VzBPQBpNT0/nFJqdndUQa25u5utYP8mizSxk7WXAhchWgeqIJOt9uZeen5/ntZA6zJoF6gAz+tzcHKWmplr3VALpoq4g4QrusoqKiqKC4uJiFiX+ZM4MZBKLFuLPRuMELCZg5zc0/x8BW77ke7f7a9ZVnRfddghe9k7wxgnZahDLTqixyVaDXtkv4bJJHajx/fTBqe5Y6fbvPYhVIupmj14J/jdpSDyI951OmwAAAABJRU5ErkJggg==)](https://vitormalencar.com) -->
+### 🛠️ Technical Toolkit
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript |
+| **Frontend** | React, Next.js, HTML5, CSS3, SCSS |
+| **State & Data** | Redux, Context API, RESTful APIs |
+| **Design & UI** | Tailwind CSS, Styled Components, Framer Motion |
+| **Tools & Testing** | Git, Jest, React Testing Library, Webpack/Vite |
+
+---
+
+### 🚀 What I'm Focused On
+- 🏢 **Currently:** Seeking new Senior Frontend opportunities where I can lead technical initiatives and mentor developers.
+- 🌱 **Learning:** Deep-diving into **Next.js 14+ (App Router)** and advanced Server Components.
+- ⚡ **Fun Fact:** I was a former **Pokémon Unite pro player**. I bring the same strategic mindset and competitive drive to solving complex bugs.
+
+---
+
+### 📈 Core Strengths
+* **Component Architecture:** Building reusable, well-documented design systems.
+* **Performance Optimization:** Improving Core Web Vitals and reducing bundle sizes.
+* **Collaboration:** Working cross-functionally with UX designers and Product Managers to turn vision into reality.
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/msfern/) • [Portfolio Site](https://msfern.dev) • [Email](mailto:msfern.dev@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msfern&show_icons=true&theme=tokyonight" alt="Stephanie's GitHub Stats" />
+</p>
