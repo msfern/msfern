@@ -34,8 +34,4 @@ I specialize in building **scalable, accessible, and high-performance** web appl
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/msfern/) • [Portfolio Site](https://msfern.dev) • [Email](mailto:msfern.dev@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msfern&show_icons=true&theme=tokyonight" alt="Stephanie's GitHub Stats" />
-</p>
+[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=msfern)](https://github.com/msfern/github-readme-stats)
